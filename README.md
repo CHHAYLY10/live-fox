@@ -2,6 +2,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 mario@pkrsvayriengfc.com
 88889999
+Testing: 
+https://testing-pkrsr-portal.netlify.app/login?next=/club/team/create
 
 https://foxlive.netlify.app/
 
